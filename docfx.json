@@ -27,6 +27,10 @@
         "files": [ "articles/images/**"]
       }
     ],
+	"template": [
+      "default",
+      "templates/relativity"
+    ],
     "overwrite": "specs/*.md",
     "globalMetadata": {
       "_appTitle": "docfx seed website",
