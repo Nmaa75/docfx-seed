@@ -1,4 +1,4 @@
-# docfx-seed
+# docfx-POCDemo
 ## Description
 This is a sample docfx documentation project. It contains .NET source code and markdown files.
 `docfx.json` is the configuration file for running `docfx`.
